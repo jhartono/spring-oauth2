@@ -1,4 +1,4 @@
-package com.anoman.inventory_management.authorization.repository.impl;
+package com.bluetree.spring_oauth2.authorization.repository.impl;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -10,8 +10,8 @@ import org.springframework.jdbc.core.RowMapper;
 import org.springframework.stereotype.Repository;
 import org.springframework.util.StringUtils;
 
-import com.anoman.inventory_management.authorization.model.User;
-import com.anoman.inventory_management.authorization.repository.UserRepository;
+import com.bluetree.spring_oauth2.authorization.model.User;
+import com.bluetree.spring_oauth2.authorization.repository.UserRepository;
 
 @Repository
 public class UserRepositoryImpl implements UserRepository {

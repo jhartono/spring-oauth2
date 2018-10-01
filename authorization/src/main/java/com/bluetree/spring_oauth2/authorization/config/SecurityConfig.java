@@ -1,4 +1,4 @@
-package com.anoman.inventory_management.authorization.config;
+package com.bluetree.spring_oauth2.authorization.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.web.servlet.FilterRegistrationBean;

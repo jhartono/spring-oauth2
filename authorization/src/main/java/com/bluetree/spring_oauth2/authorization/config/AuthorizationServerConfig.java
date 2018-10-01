@@ -1,4 +1,4 @@
-package com.anoman.inventory_management.authorization.config;
+package com.bluetree.spring_oauth2.authorization.config;
 
 import java.util.Arrays;
 

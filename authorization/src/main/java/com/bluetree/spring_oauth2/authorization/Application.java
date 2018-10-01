@@ -1,4 +1,4 @@
-package com.anoman.inventory_management.authorization;
+package com.bluetree.spring_oauth2.authorization;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

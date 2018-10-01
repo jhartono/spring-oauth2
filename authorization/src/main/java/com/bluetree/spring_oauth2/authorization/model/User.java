@@ -1,4 +1,4 @@
-package com.anoman.inventory_management.authorization.model;
+package com.bluetree.spring_oauth2.authorization.model;
 
 import java.io.Serializable;
 import java.util.HashSet;

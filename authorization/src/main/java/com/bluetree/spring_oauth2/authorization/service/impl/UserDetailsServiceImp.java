@@ -1,4 +1,4 @@
-package com.anoman.inventory_management.authorization.service.impl;
+package com.bluetree.spring_oauth2.authorization.service.impl;
 
 import java.util.Optional;
 
@@ -9,8 +9,8 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 
-import com.anoman.inventory_management.authorization.model.User;
-import com.anoman.inventory_management.authorization.service.UserService;
+import com.bluetree.spring_oauth2.authorization.model.User;
+import com.bluetree.spring_oauth2.authorization.service.UserService;
 
 @Service("userDetailsService")
 public class UserDetailsServiceImp implements UserDetailsService {
